@@ -1,0 +1,426 @@
+@media (max-width:1399px){
+	.container{
+		width: 1000px;
+	}
+	.inner-events p {
+       font-size: 16px;     
+   }
+   .tours-content p {
+    font-size: 17px;
+  }
+
+	
+}
+@media (max-width:1199px){
+	.container{
+		width: 800px;
+	}
+	nav ul li a {
+    font-size: 14px;
+    padding: 5px 10px;
+    margin-left: 0;
+  }
+
+  .banner-content h1 {
+    font-size: 48px;
+    line-height: 70px;
+    margin: 25px 0;
+}
+.events-section {
+    padding: 50px 0;
+}
+   .inner-events img {
+    height: 530px;
+}
+.inner-events h3 {
+    font-size: 22px;
+    margin: 25px 0 15px;
+}
+.inner-events p {
+    font-size: 13px;
+}
+.explore h1 {
+    font-size: 48px;
+    margin: 0;
+    line-height: 58px;
+}
+.explore p {
+    font-size: 14px;
+    margin: 30px 0;
+    
+}
+.tours-section {
+    padding: 50px 0;
+}
+.tours-content h2 {
+    font-size: 27px;
+    line-height: 37px;
+    margin-bottom: 40px;
+   
+}
+.tours-content p {
+    font-size: 13px;
+}
+footer span {
+    font-size: 12px;
+    
+}
+.copyright p {
+    font-size: 10px;
+    
+}
+	
+}
+@media (max-width:991px){
+	.container{
+		width: 650px;
+	}
+	
+    .logo {
+    width: 100%;
+    text-align: center;
+}
+nav {
+    width: 100%;
+}
+   
+nav ul {
+    justify-content: center;
+}
+nav ul li a {
+    font-size: 15px;
+    padding: 5px 12px;
+    margin-left: 0;
+}
+.banner-content h4 {
+    font-size: 16px;
+    line-height: 26px;
+    
+}
+
+.banner-content h1 {
+    font-size: 35px;
+    line-height: 45px;
+    margin: 20px 0;
+}
+
+.banner-content .btn {
+    font-size: 12px;
+    padding: 5px 15px;
+    letter-spacing: 1px;
+    
+}
+.quote p {
+    font-size: 14px;
+    margin-bottom: 5px;
+    
+}
+.quote h4 {
+    font-size: 16px;
+    
+}
+
+.events-section .title h2 {
+    font-size: 35px;
+    margin-bottom: 40px;
+    
+}
+.inner-events img {
+    height: 430px;
+}
+.inner-events h3 {
+    font-size: 18px;
+    margin: 20px 0 5px;
+}
+.inner-events p {
+    font-size: 12px;
+    padding: 0 28px;
+}
+.inner-events .btn {
+    font-size: 13px;
+    padding: 5px 15px;
+    margin-top: 8px;
+   
+}
+.explore h1 {
+    font-size: 35px;
+    margin: 0;
+    line-height: 45px;
+}
+.explore p {
+    font-size: 13px;
+    margin: 25px 0;
+}
+.explore .btn {
+    font-size: 13px;
+    padding: 6px 15px;
+    
+}
+.tours-section {
+    padding: 35px 0;
+}
+.tours-content h2 {
+    font-size: 22px;
+    line-height: 32px;
+    margin-bottom: 25px;
+}
+.tours-content .btn {
+    font-size: 13px;
+    padding: 5px 15px;
+    letter-spacing: 2px;
+    
+}
+.tours-img img {
+    padding: 5px;
+    
+}
+footer {
+    padding: 15px 0px;
+    
+}
+
+}
+@media (max-width:767px){
+	.container{
+		width: 500px;
+	}
+	.logo img {
+    width: 100px;
+}
+nav ul li a {
+    font-size: 13px;
+    padding: 5px 9px;
+    margin-left: 0;
+    margin-right: 0;
+}
+.banner-content h4 {
+    font-size: 14px;
+   
+}
+.banner-content h1 {
+    font-size: 25px;
+    line-height: 35px;
+    margin: 10px 0;
+}
+.quote-setion {
+    padding: 40px 0;
+   
+}
+.events-section {
+    padding: 20px 0;
+}
+.inner-events img {
+    height: 330px;
+}
+.inner-events h3 {
+    font-size: 18px;
+    margin: 15px 0 5px;
+}
+.inner-events p {
+    padding: 0;
+}
+.inner-events .btn {
+    font-size: 12px;
+    margin-top: 5px;
+}
+.explore h1 {
+    font-size: 25px;
+    line-height: 35px;
+}
+.explore p {
+    font-size: 13px;
+    margin: 15px 0;
+}
+.explore .btn {
+    font-size: 12px;
+    padding: 5px 15px;
+}
+.tours-section {
+    padding: 20px 0;
+}
+.tours-content h2 {
+    font-size: 17px;
+    line-height: 28px;
+    margin-bottom: 15px;
+}
+.tours-img img {
+    padding: 0 5px;
+}
+.tours-content .btn {
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+footer {
+    padding: 10px 0px;
+}
+footer span {
+    font-size: 10px;
+}
+footer .copyright {
+    margin: 5px 0;
+}
+.copyright p {
+    font-size: 8px;
+}
+	
+}
+@media (max-width: 575px){
+	.container{
+		width: 100%;
+		
+	}
+	nav ul li a {
+    font-size: 15px;
+    padding: 6px 12px;
+    
+}
+	.banner-content {
+    top: 63%;
+    
+}
+.banner-content h4::after {
+    width: 25%;
+    
+}
+.banner-content h1 {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 5px 0;
+}
+.banner-content .btn {
+    font-size: 10px;
+    padding: 5px 15px;
+    letter-spacing: 1px;
+}
+.quote-setion {
+    padding: 25px 0;
+}
+.quote p {
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+.quote h4 {
+    font-size: 14px;
+}
+.explore h1 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.explore h1::after {
+    width: 15%;
+    
+}
+.explore p {
+    font-size: 12px;
+    margin: 10px 0;
+}
+.events-section {
+    padding: 10px 0;
+}
+.events-section .title h2 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.events-section .title h2::after {
+    transform: translateY(-5px);
+    width: 12%;
+}
+.events-section .col-2 {
+    width: 100%;
+}
+.inner-events {
+    margin: 0 15px;
+    text-align: center;
+    margin: 10px 0;
+}
+.tours-section .col-3 {
+    width: 100%;
+}
+.tours-content {
+    text-align: center;
+}
+.tours-content h2::after {
+    right: 0;
+  
+}
+.tours-content .btn {
+    margin-bottom: 35px;
+    display: inline-block;
+}
+.tours-section .col-1 {
+    width: 50%;
+}
+	
+}
+@media (max-width: 400px){
+	.logo img {
+    width: 50px;
+}
+
+header {
+    padding: 5px 0 0;
+    
+}
+nav ul li a {
+    font-size: 12px;
+    padding: 7px 15px;
+}
+.banner-content {
+    top: 70%;
+}
+.banner-content h4 {
+    font-size: 12px;
+}
+
+.banner-content h1 {
+    font-size: 15px;
+    
+}
+.banner-content .btn {
+    font-size: 9px;
+    padding: 5px 15px;
+    letter-spacing: 1px;
+}
+.quote p {
+    font-size: 10px;
+    
+}
+.inner-events p {
+    font-size: 10px;
+    
+}
+.explore h1 {
+    font-size: 15px;
+    line-height: 25px;
+}
+.explore p {
+    display: none;
+}
+.explore h1::after {
+    width: 20%;
+}
+.explore .btn {
+    font-size: 9px;
+    padding: 5px 15px;
+    margin-top: 14px;
+}
+.tours-content h2 {
+    font-size: 13px;
+    
+}
+.tours-content p {
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+.tours-content .btn {
+    margin-bottom: 20px;
+    font-size: 9px;
+}
+footer span {
+    font-size: 8px;
+}
+.copyright p {
+    font-size: 7px;
+}
+	
+}
